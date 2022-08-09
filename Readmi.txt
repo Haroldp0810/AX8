@@ -1,0 +1,12 @@
+Backend
+
+Spring Boot
+
+Gradle proyect - Java 17
+
+Dependencias
+
+* Spring Web
+* Spring DevTools
+* Lombook
+

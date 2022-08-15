@@ -4,10 +4,6 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
-@NoArgsConstructor
-@AllArgsConstructor
-@Getter
-
 /*
 Etiquetas lombook
 
@@ -19,6 +15,10 @@ Funcionamiento:
 
 
  */
+
+@NoArgsConstructor
+@AllArgsConstructor
+@Getter
 
 
 public class usuarioDTO {

@@ -10,3 +10,30 @@ Dependencias
 * Spring DevTools
 * Lombook
 
+Base de datos
+Password: Hami_08100
+
+
+Estrucutura (Teoria)
+
+Aplicacion
+* Controller
+* Todos los objetos DTO para la peticion
+* Los DTO de la response
+
+Dominio
+* Interfaz del Repository
+
+Infraestrucutra
+* La configuracion de lsa distintas bases de datos
+* Configuracion de los Bean (Servicios)
+* Implementacion de la interfaz repository para los distintos repositorios
+
+Glosario de posibles terminos
+
+Repostorio: Espacio centralizado donde se almacena, organiza, mantiene y difunde informacion
+digital
+
+Arrays.asList: se usa para devolver una lista de tamaño fijo respaldada por la matriz especificada.
+Este método actúa como un puente entre las API basadas en matrices y las basadas en colecciones,
+en combinación con Collection.toArray().

@@ -13,4 +13,6 @@ public class RolUsuario {
         return new RolUsuario(rol);
     }
     private RolUsuario (String rol){this.rol = rol;}
+
+    public String getRol(){return rol;}
 }
